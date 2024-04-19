@@ -64,4 +64,4 @@ Price: 350 Robux (Lifetime).
 ✅Passwords
 ✅Webcam
 ✅Common files
-Price: 600 Robux.
+| Price: 600 Robux.
