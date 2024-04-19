@@ -5,7 +5,7 @@ Purchase at https://dsc.gg/stlr-shop
 # Logs
 Logs are sending to your Discord webhook.
 # St3alers to get:
-STLR Lite:
+## STLR Lite:
 ✅Ping @everyone
 ✅Fake Error
 ✅System info
@@ -24,7 +24,7 @@ STLR Lite:
 ❌Block Аntivirus sit3s
 ❌Anti VM (Virtual Machine)
 Price: 150 Robux (Lifetime).
-STLR Premium:
+## STLR Premium:
 ✅Ping @everyone
 ✅Fake Error
 ✅System info
@@ -43,7 +43,7 @@ STLR Premium:
 ✅Block Аntivirus sit3s
 ❌Anti VM (Virtual Machine)
 Price: 350 Robux (Lifetime).
-STLR Elite:
+## STLR Elite:
 ✅Ping @everyone
 ✅Fake Error
 ✅System info
