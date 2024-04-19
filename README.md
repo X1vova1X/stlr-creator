@@ -1,7 +1,10 @@
 # THE ST3ALER BUILDER
 Educational purposes only.
+# Where to purchase?
+Purchase at https://dsc.gg/stlr-shop
+# Logs
 Logs are sending to your Discord webhook.
-St3alers to get:
+# St3alers to get:
 STLR Lite:
 ✅Ping @everyone
 ✅Fake Error
